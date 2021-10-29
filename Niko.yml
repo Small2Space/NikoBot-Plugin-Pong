@@ -1,3 +1,2 @@
-com.github.smallru8.plugin.pong.Pong
-Pong Help:
-    /ping
+path=com.github.smallru8.plugin.pong.Pong
+startPermission=local
